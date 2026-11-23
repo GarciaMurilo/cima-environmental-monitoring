@@ -10,7 +10,7 @@ It currently comprises three main components: a water quality monitoring device,
 
 ## Project Components
 
-### 1. Water Quality Monitoring
+### 1. GarCIMA – Water Quality Monitoring Device
 
 An Arduino-based device developed to monitor water quality through three parameters:
 
