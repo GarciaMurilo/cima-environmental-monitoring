@@ -68,7 +68,7 @@ Current features include:
 ```text
 CIMA/
 ├── water-monitor/
-│   └── Water monitoring device firmware
+│   └── GarCIMA firmware
 ├── air-monitor/
 │   └── Air monitoring device firmware
 ├── visualization-platform/
